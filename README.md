@@ -2,14 +2,14 @@
 
 ## Introduction
 
-![Introduction](https://cdn.rawgit.com/nstack/nstack/ebe779d9f560ba618b7804bbdceaa589801ea2ff/images/readme-flowchart-intro.svg)
+![Introduction](https://github.com/nstack/nstack/blob/master/images/readme-flowchart-intro.svg?raw=true)
 
 NStack is a compute platform which is ideal for data analytics because it makes integrating data, productionising code, and connecting it to that data really simple. Firstly, it provides a way to turn disparate data-sources -- such as databases, 3rd-party APIs, or HTTP endpoints -- into streams of typed records. Secondly, it provides a way to publish local code as *functions* on your cloud provider. These streams can be composed with these functions using NStack's scripting language, and NStack automates all underlying infrastructure so you can focus on data-science instead of operations.
 
 
 ### Example
 
-![Example](https://cdn.rawgit.com/nstack/nstack/ebe779d9f560ba618b7804bbdceaa589801ea2ff/images/readme-flowchart-example.svg)
+![Example](https://github.com/nstack/nstack/blob/master/images/readme-flowchart-example.svg?raw=true)
 
 We can express this within the NStack scripting language locally as follows, just think of it as Bash for containerised microservices,
 
